@@ -1,1 +1,1 @@
-### Thingking-Machine (oaio).
+### Hypothesizing-Machine (oaio).
